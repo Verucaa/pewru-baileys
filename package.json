@@ -1,10 +1,10 @@
 {
-  "name": "luna-baileys",
+  "name": "pewru-baileys",
   "version": "9.0.33",
   "description": "Modded Baileys V7 with interactive message, album, messageBuilder, newsletter, and VoIP support",
   "repository": {
     "type": "git",
-    "url": "https://github.com/noxXza/luna-baileys.git"
+    "url": "https://github.com/Verucaa/pewru-baileys.git"
   },
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -41,7 +41,9 @@
   "keywords": [
     "automation",
     "luna-baileys",
+    "pewru-baileys",
     "noxXza",
+    "Verucaa",
     "bot",
     "bot-whatsapp",
     "js-whatsapp",
@@ -51,7 +53,7 @@
     "whatsapp-bot",
     "whatsapp-web"
   ],
-  "author": "noxXza",
+  "author": "Verucaa",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
